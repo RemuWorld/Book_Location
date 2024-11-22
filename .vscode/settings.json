@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "cjson.h": "c",
+        "stdio.h": "c",
+        "_mlocate.h": "c"
+    }
+}
